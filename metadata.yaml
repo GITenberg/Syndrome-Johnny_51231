@@ -1,5 +1,5 @@
 _repo: Syndrome-Johnny_51231
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Emshwiller, Ed
@@ -9,20 +9,25 @@ contributor:
     - Emsh
     - Emsh, Ed
     - Alexander, Ed
-    birthdate: &id001 1925
+    birthdate: 1925
     deathdate: 1990
     gutenberg_agent_id: '25412'
     url: http://www.gutenberg.org/2009/agents/25412
     wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 51231-h/images/cover.jpg
 creator:
   author:
     agent_name: Dye, Charles
     alias: Dye, Charles Dudley
-    birthdate: *id001
+    birthdate: 1925
     deathdate: 1960
     gutenberg_agent_id: '45153'
     url: http://www.gutenberg.org/2009/agents/45153
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51231#Syndrome-Johnny
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-16'
 gutenberg_type: Text
